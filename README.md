@@ -1,2 +1,2 @@
-# Text-processing---IE-IR
-Information retrieval and information extraction
+# Text-processing Information retrieval and information extraction
+
